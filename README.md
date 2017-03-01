@@ -1,6 +1,6 @@
 # LifecycleActivity
 
-![Screenshot](https://github.com/yefta11/LifecycleActivity/blob/master/la1.png);
+![Screenshot](https://github.com/yefta11/LifecycleActivity/blob/master/la1.png)
 
 Nama : Yefta Satria Utama <br>
 kelas : XI RPL 2 <br>
